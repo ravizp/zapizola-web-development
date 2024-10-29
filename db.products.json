@@ -1,0 +1,273 @@
+[
+    {
+      "name": "White Minimalist Sneakers",
+      "slug": "white-minimalist-sneakers",
+      "description": "A pair of white sneakers with a clean and sleek appearance, perfect for casual wear.",
+      "excerpt": "Stylish white sneakers with minimalistic design, perfect for everyday wear.",
+      "price": 499000,
+      "tags": ["sneakers", "footwear", "casual"],
+      "thumbnail": "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673964/DALL_E_2024-10-23_15.54.55_-_A_high-quality_image_of_a_stylish_pair_of_sneakers._The_sneakers_are_white_with_minimalistic_design_details_and_a_clean_sleek_appearance_displayed_a_ogotyr.webp",
+      "images": [
+        "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673964/DALL_E_2024-10-23_15.54.55_-_A_high-quality_image_of_a_stylish_pair_of_sneakers._The_sneakers_are_white_with_minimalistic_design_details_and_a_clean_sleek_appearance_displayed_a_ogotyr.webp",
+        "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673964/DALL_E_2024-10-23_15.53.29_-_A_high-quality_image_of_a_pair_of_stylish_sneakers_typically_sold_on_e-commerce_platforms._The_sneakers_are_modern_sleek_and_well-designed_displaye_kwpgcd.webp",
+        "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801498/samples/shoe.jpg"
+      ],
+      "createdAt": "2024-10-23T08:00:00Z",
+      "updatedAt": "2024-10-23T08:00:00Z"
+    },
+    {
+      "name": "Black Fashion Sunglasses",
+      "slug": "black-fashion-sunglasses",
+      "description": "A sleek and modern pair of sunglasses with black frames and dark-tinted lenses.",
+      "excerpt": "Trendy sunglasses with a sleek design, perfect for sunny days.",
+      "price": 299000,
+      "tags": ["sunglasses", "accessories"],
+      "thumbnail": "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673963/DALL_E_2024-10-23_15.53.13_-_A_high-quality_image_of_a_pair_of_fashionable_sunglasses_typically_sold_on_e-commerce_platforms._The_sunglasses_are_trendy_and_sleek_displayed_agains_hjyf9h.webp",
+      "images": [
+        "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673963/DALL_E_2024-10-23_15.53.13_-_A_high-quality_image_of_a_pair_of_fashionable_sunglasses_typically_sold_on_e-commerce_platforms._The_sunglasses_are_trendy_and_sleek_displayed_agains_hjyf9h.webp",
+        "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673965/DALL_E_2024-10-23_15.55.05_-_A_high-quality_image_of_a_pair_of_stylish_sunglasses._The_sunglasses_have_a_black_frame_with_dark-tinted_lenses_and_a_sleek_modern_design._They_are_d_m3vlev.webp"
+      ],
+      "createdAt": "2024-10-23T08:00:00Z",
+      "updatedAt": "2024-10-23T08:00:00Z"
+    },
+    {
+      "name": "Elegant Designer Handbag",
+      "slug": "elegant-designer-handbag",
+      "description": "A leather designer handbag in brown with elegant straps and gold accents.",
+      "excerpt": "Stylish and elegant leather handbag, perfect for both casual and formal occasions.",
+      "price": 899000,
+      "tags": ["handbag", "accessories", "leather"],
+      "thumbnail": "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673964/DALL_E_2024-10-23_15.55.01_-_A_high-quality_image_of_a_designer_handbag._The_handbag_is_leather_brown_in_color_with_elegant_straps_and_gold_accents._It_is_displayed_against_a_si_jorynh.webp",
+      "images": [
+        "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673964/DALL_E_2024-10-23_15.55.01_-_A_high-quality_image_of_a_designer_handbag._The_handbag_is_leather_brown_in_color_with_elegant_straps_and_gold_accents._It_is_displayed_against_a_si_jorynh.webp",
+        "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673964/DALL_E_2024-10-23_15.53.27_-_A_high-quality_image_of_a_designer_handbag_typically_sold_on_e-commerce_platforms._The_handbag_is_elegant_and_fashionable_displayed_against_a_clean_id1rcd.webp"
+      ],
+      "createdAt": "2024-10-23T08:00:00Z",
+      "updatedAt": "2024-10-23T08:00:00Z"
+    },
+    {
+      "name": "Trendy Leather Jacket",
+      "slug": "trendy-leather-jacket",
+      "description": "A black premium leather jacket with a classic biker style and silver zippers.",
+      "excerpt": "Classic biker leather jacket, perfect for a bold and stylish look.",
+      "price": 1299000,
+      "tags": ["jacket", "leather", "fashion"],
+      "thumbnail": "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673965/DALL_E_2024-10-23_15.53.37_-_A_high-quality_image_of_a_leather_jacket._The_jacket_is_black_made_from_premium_leather_with_a_classic_biker_style_and_silver_zippers._It_is_display_zcofpr.webp",
+      "images": [
+        "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673965/DALL_E_2024-10-23_15.53.37_-_A_high-quality_image_of_a_leather_jacket._The_jacket_is_black_made_from_premium_leather_with_a_classic_biker_style_and_silver_zippers._It_is_display_zcofpr.webp"
+      ],
+      "createdAt": "2024-10-23T08:00:00Z",
+      "updatedAt": "2024-10-23T08:00:00Z"
+    },
+    {
+        "name": "Classic Analog Watch",
+        "slug": "classic-analog-watch",
+        "description": "A sleek metallic watch with a black leather strap and a minimalistic round dial.",
+        "excerpt": "Stylish analog wristwatch with a sleek design, perfect for any occasion.",
+        "price": 599000,
+        "tags": ["watch", "accessories", "analog"],
+        "thumbnail": "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673965/DALL_E_2024-10-23_15.53.33_-_A_high-quality_image_of_a_fashionable_wristwatch._The_watch_has_a_sleek_metallic_design_with_a_black_leather_strap_and_a_minimalistic_round_dial._It_i_mekkyv.webp",
+        "images": [
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673965/DALL_E_2024-10-23_15.53.33_-_A_high-quality_image_of_a_fashionable_wristwatch._The_watch_has_a_sleek_metallic_design_with_a_black_leather_strap_and_a_minimalistic_round_dial._It_i_mekkyv.webp",
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801490/samples/ecommerce/analog-classic.jpg"
+        ],
+        "createdAt": "2024-10-23T08:00:00Z",
+        "updatedAt": "2024-10-23T08:00:00Z"
+      },
+      {
+        "name": "Gray Leather Bag",
+        "slug": "gray-leather-bag",
+        "description": "A modern gray leather handbag with minimalist design and functional compartments.",
+        "excerpt": "A chic and versatile gray leather handbag, perfect for any casual or formal event.",
+        "price": 749000,
+        "tags": ["handbag", "leather", "accessories"],
+        "thumbnail": "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801492/samples/ecommerce/leather-bag-gray.jpg",
+        "images": [
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801492/samples/ecommerce/leather-bag-gray.jpg",
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801493/samples/ecommerce/accessories-bag.jpg"
+        ],
+        "createdAt": "2024-10-23T08:00:00Z",
+        "updatedAt": "2024-10-23T08:00:00Z"
+      },
+      {
+        "name": "Trendy White T-Shirt",
+        "slug": "trendy-white-t-shirt",
+        "description": "A plain white t-shirt with a modern fitted design, ideal for casual wear.",
+        "excerpt": "Classic white t-shirt with a sleek and comfortable fit, perfect for everyday fashion.",
+        "price": 199000,
+        "tags": ["t-shirt", "casual", "fashion"],
+        "thumbnail": "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673964/DALL_E_2024-10-23_15.55.03_-_A_high-quality_image_of_a_trendy_t-shirt._The_t-shirt_is_plain_white_with_a_modern_fitted_design_perfect_for_casual_wear._It_is_neatly_displayed_aga_sdkfms.webp",
+        "images": [
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673964/DALL_E_2024-10-23_15.55.03_-_A_high-quality_image_of_a_trendy_t-shirt._The_t-shirt_is_plain_white_with_a_modern_fitted_design_perfect_for_casual_wear._It_is_neatly_displayed_aga_sdkfms.webp",
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673964/DALL_E_2024-10-23_15.53.24_-_A_high-quality_image_of_a_trendy_t-shirt_typically_sold_on_e-commerce_platforms._The_t-shirt_is_modern_and_stylish_displayed_against_a_clean_neutral_rv4xcn.webp"
+        ],
+        "createdAt": "2024-10-23T08:00:00Z",
+        "updatedAt": "2024-10-23T08:00:00Z"
+      },
+      {
+        "name": "Outdoor Adventure Jacket",
+        "slug": "outdoor-adventure-jacket",
+        "description": "A durable jacket for outdoor activities, perfect for exploring with comfort and style.",
+        "excerpt": "Lightweight and sturdy jacket, ideal for hiking and outdoor adventures.",
+        "price": 1099000,
+        "tags": ["jacket", "outdoor", "adventure"],
+        "thumbnail": "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801499/samples/outdoor-woman.jpg",
+        "images": [
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801499/samples/outdoor-woman.jpg",
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801496/samples/two-ladies.jpg"
+        ],
+        "createdAt": "2024-10-23T08:00:00Z",
+        "updatedAt": "2024-10-23T08:00:00Z"
+      },
+      {
+        "name": "Modern Black Leather Bag",
+        "slug": "modern-black-leather-bag",
+        "description": "A stylish black leather handbag with elegant silver accents and ample storage space.",
+        "excerpt": "Perfect blend of elegance and functionality in a black leather handbag.",
+        "price": 999000,
+        "tags": ["bag", "leather", "fashion"],
+        "thumbnail": "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801492/samples/ecommerce/accessories-bag.jpg",
+        "images": [
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801492/samples/ecommerce/accessories-bag.jpg",
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673965/DALL_E_2024-10-23_15.55.11_-_A_high-quality_image_of_fashion_products_typically_sold_on_e-commerce_platforms._The_products_include_a_pair_of_stylish_sneakers_a_designer_handbag_zvd4ar.webp"
+        ],
+        "createdAt": "2024-10-23T08:00:00Z",
+        "updatedAt": "2024-10-23T08:00:00Z"
+      },
+      {
+        "name": "Fashion Sunglasses",
+        "slug": "fashion-sunglasses",
+        "description": "A pair of stylish black-framed sunglasses with dark-tinted lenses.",
+        "excerpt": "Trendy sunglasses with a sleek modern design, perfect for any sunny day.",
+        "price": 349000,
+        "tags": ["sunglasses", "accessories", "fashion"],
+        "thumbnail": "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673964/DALL_E_2024-10-23_15.55.05_-_A_high-quality_image_of_a_pair_of_stylish_sunglasses._The_sunglasses_have_a_black_frame_with_dark-tinted_lenses_and_a_sleek_modern_design._They_are_d_m3vlev.webp",
+        "images": [
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673964/DALL_E_2024-10-23_15.55.05_-_A_high-quality_image_of_a_pair_of_stylish_sunglasses._The_sunglasses_have_a_black_frame_with_dark-tinted_lenses_and_a_sleek_modern_design._They_are_d_m3vlev.webp",
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801500/samples/man-portrait.jpg"
+        ],
+        "createdAt": "2024-10-23T08:00:00Z",
+        "updatedAt": "2024-10-23T08:00:00Z"
+      },
+      {
+        "name": "Casual Winter Hoodie",
+        "slug": "casual-winter-hoodie",
+        "description": "A cozy winter hoodie designed for comfort and warmth during cold weather.",
+        "excerpt": "Stay warm and stylish with this trendy winter hoodie, perfect for casual outings.",
+        "price": 459000,
+        "tags": ["hoodie", "winter", "casual"],
+        "thumbnail": "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801492/samples/people/boy-snow-hoodie.jpg",
+        "images": [
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801492/samples/people/boy-snow-hoodie.jpg",
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801500/samples/upscale-face-1.jpg"
+        ],
+        "createdAt": "2024-10-23T08:00:00Z",
+        "updatedAt": "2024-10-23T08:00:00Z"
+      },
+      {
+        "name": "Designer Leather Handbag",
+        "slug": "designer-leather-handbag",
+        "description": "A luxurious leather handbag with gold accents and elegant straps.",
+        "excerpt": "Perfect for any occasion, this handbag combines elegance and functionality.",
+        "price": 1299000,
+        "tags": ["handbag", "leather", "fashion"],
+        "thumbnail": "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673965/DALL_E_2024-10-23_15.55.01_-_A_high-quality_image_of_a_designer_handbag._The_handbag_is_leather_brown_in_color_with_elegant_straps_and_gold_accents._It_is_displayed_against_a_si_jorynh.webp",
+        "images": [
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673965/DALL_E_2024-10-23_15.55.01_-_A_high-quality_image_of_a_designer_handbag._The_handbag_is_leather_brown_in_color_with_elegant_straps_and_gold_accents._It_is_displayed_against_a_si_jorynh.webp",
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673964/DALL_E_2024-10-23_15.53.27_-_A_high-quality_image_of_a_designer_handbag_typically_sold_on_e-commerce_platforms._The_handbag_is_elegant_and_fashionable_displayed_against_a_clean_id1rcd.webp"
+        ],
+        "createdAt": "2024-10-23T08:00:00Z",
+        "updatedAt": "2024-10-23T08:00:00Z"
+      },
+      {
+        "name": "Classic Leather Jacket",
+        "slug": "classic-leather-jacket",
+        "description": "A black leather jacket with a classic biker style and silver zippers.",
+        "excerpt": "Timeless biker-style leather jacket made from premium leather, perfect for any season.",
+        "price": 1399000,
+        "tags": ["jacket", "leather", "biker"],
+        "thumbnail": "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673965/DALL_E_2024-10-23_15.53.37_-_A_high-quality_image_of_a_leather_jacket._The_jacket_is_black_made_from_premium_leather_with_a_classic_biker_style_and_silver_zippers._It_is_display_zcofpr.webp",
+        "images": [
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1729673965/DALL_E_2024-10-23_15.53.37_-_A_high-quality_image_of_a_leather_jacket._The_jacket_is_black_made_from_premium_leather_with_a_classic_biker_style_and_silver_zippers._It_is_display_zcofpr.webp",
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801499/samples/smile.jpg"
+        ],
+        "createdAt": "2024-10-23T08:00:00Z",
+        "updatedAt": "2024-10-23T08:00:00Z"
+      },
+      {
+        "name": "Outdoor Adventure Bike",
+        "slug": "outdoor-adventure-bike",
+        "description": "A durable and stylish bike designed for urban and outdoor adventures.",
+        "excerpt": "Experience the thrill of biking with this high-performance outdoor bike.",
+        "price": 2999000,
+        "tags": ["bike", "outdoor", "adventure"],
+        "thumbnail": "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801492/samples/bike.jpg",
+        "images": [
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801492/samples/bike.jpg",
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801491/samples/landscapes/girl-urban-view.jpg"
+        ],
+        "createdAt": "2024-10-23T08:00:00Z",
+        "updatedAt": "2024-10-23T08:00:00Z"
+      },
+      {
+        "name": "Urban Casual Shirt",
+        "slug": "urban-casual-shirt",
+        "description": "A modern and casual shirt perfect for daily urban activities.",
+        "excerpt": "Stay comfortable and stylish with this versatile casual shirt.",
+        "price": 249000,
+        "tags": ["shirt", "casual", "urban"],
+        "thumbnail": "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801501/cld-sample-5.jpg",
+        "images": [
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801501/cld-sample-5.jpg",
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801501/cld-sample.jpg"
+        ],
+        "createdAt": "2024-10-23T08:00:00Z",
+        "updatedAt": "2024-10-23T08:00:00Z"
+      },
+      {
+        "name": "Urban Street Style Jacket",
+        "slug": "urban-street-jacket",
+        "description": "A stylish street jacket for a modern urban look.",
+        "excerpt": "Step out in style with this sleek and fashionable street jacket.",
+        "price": 649000,
+        "tags": ["jacket", "urban", "street"],
+        "thumbnail": "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801499/samples/man-on-a-street.jpg",
+        "images": [
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801499/samples/man-on-a-street.jpg",
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801499/samples/man-on-a-escalator.jpg"
+        ],
+        "createdAt": "2024-10-23T08:00:00Z",
+        "updatedAt": "2024-10-23T08:00:00Z"
+      },
+      {
+        "name": "Premium Jazz Shirt",
+        "slug": "premium-jazz-shirt",
+        "description": "A premium shirt with a sleek design inspired by jazz culture.",
+        "excerpt": "Jazz up your wardrobe with this stylish and elegant shirt.",
+        "price": 479000,
+        "tags": ["shirt", "jazz", "premium"],
+        "thumbnail": "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801491/samples/people/jazz.jpg",
+        "images": [
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801491/samples/people/jazz.jpg",
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801491/samples/people/kitchen-bar.jpg"
+        ],
+        "createdAt": "2024-10-23T08:00:00Z",
+        "updatedAt": "2024-10-23T08:00:00Z"
+      },
+      {
+        "name": "Sporty Football Outfit",
+        "slug": "sporty-football-outfit",
+        "description": "A dynamic football outfit perfect for both casual and athletic wear.",
+        "excerpt": "Show your love for football with this trendy and sporty outfit.",
+        "price": 379000,
+        "tags": ["football", "sportswear", "outfit"],
+        "thumbnail": "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801501/samples/woman-on-a-football-field.jpg",
+        "images": [
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801501/samples/woman-on-a-football-field.jpg",
+          "https://res.cloudinary.com/dqczvxzoq/image/upload/v1727801491/samples/people/smiling-man.jpg"
+        ],
+        "createdAt": "2024-10-23T08:00:00Z",
+        "updatedAt": "2024-10-23T08:00:00Z"
+      }
+  ]
+  
